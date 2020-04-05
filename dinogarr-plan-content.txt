@@ -11,3 +11,4 @@ plan content untuk
 - belajar django
 - struktur data dasar (database)
 - Phyton
+
