@@ -6,3 +6,4 @@ plan content untuk
 - interview 
 - vlogs
 - belajar django
+- struktur data dasar (database)
