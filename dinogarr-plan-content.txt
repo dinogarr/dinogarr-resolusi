@@ -1,11 +1,14 @@
 plan content untuk 
 
 - buat javascript
->> framework javascript
- ^ Angular
- ^ React
+>> framework javascript 
+ ^Vue
+ ^React
 - buat php framework
->> Laravel
+>>Laravel
 - interview 
 - vlogs
 - belajar django
+- struktur data dasar (database)
+- Phyton
+
