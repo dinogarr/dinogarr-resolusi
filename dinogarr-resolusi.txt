@@ -3,3 +3,5 @@ dinogarr resolusi
 1. nak buat web page yg guna login-logout
 2. belajar tentang github/ version control system
 3. portfolio sendiri
+4. untuk buat satu website madu kelulut
+5. collab dengan lebih ramai expert
