@@ -3,6 +3,7 @@ plan content untuk
 - buat javascript
 >> framework javascript 
  ^Vue
+ ^React
 - buat php framework
 >>Laravel
 - interview 
