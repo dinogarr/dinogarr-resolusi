@@ -1,0 +1,8 @@
+plan content untuk 
+
+- buat javascript
+>> framework javascript
+- buat php framework
+- interview 
+- vlogs
+- belajar django
